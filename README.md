@@ -1,4 +1,4 @@
-# Sistema de monitoramento e detecção de vazamentos de água para condomínios que não possuam hidrômetros individualizados.
+# Detector de Vazão
 ## 🌐 O Projeto
 Construção de um sistema composto por sensores de vazão para medir o fluxo de 
 água (consumo) de um condomínio composto por inúmeras unidades habitacionais para o 
