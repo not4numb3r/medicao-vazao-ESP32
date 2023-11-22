@@ -6,13 +6,12 @@ monitoramento em tempo de execução, armazenamento de dados para análise hist�
 consumo e geração de alertas de potenciais vazamentos.
 
 ## 🚀 Tecnologias
-<b>Componentes </b>: </br>
 • ESP32. </br>
 • FIREWARE </br>
 • SQL Server </br>
 • Wokwi </br>
 • Postman </br>
-• ASP.NET MVC Core </br>]
+• ASP.NET MVC Core </br>
 
 ## 🖥️ Design
 <img src="/img/design.png"></br>
